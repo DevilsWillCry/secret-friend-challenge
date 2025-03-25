@@ -19,4 +19,4 @@ No se necesita instalación, solo sigue estos pasos:
 
 1. Descarga el archivo `index.html` y `app.js`, o clona este repositorio:
    ```sh
-   git clone https://github.com/tuusuario/lista-amigos.git
+   git clone https://github.com/tuusuario/lista-amigos.git](https://github.com/DevilsWillCry/secret-friend-challenge.git
